@@ -1,10 +1,10 @@
-Usage:
-# bash find-ipv4.sh <log-file>
+# Usage:
+$ bash find-ipv4.sh <log-file>
 
-Sample:
-# bash find-ipv4.sh access_log
+# Sample:
+$ bash find-ipv4.sh access_log
 
-Output:
+# Output:
 64.242.88.10
 64.242.88.10
 64.242.88.10
