@@ -1,5 +1,5 @@
 # Usage:
-$ bash find-ipv4.sh <log-file>
+$ bash find-ipv4.sh \<log-file\>
 
 # Sample:
 $ bash find-ipv4.sh access_log
